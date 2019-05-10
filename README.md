@@ -1,1 +1,1 @@
-# docker-minecraft-velocity
+# Minecraft Velocity for docker
